@@ -1,6 +1,5 @@
 import geopandas as gpd
 from shapely.geometry import Polygon
-import json
 import os
 
 # Source URL for geoJSON data
